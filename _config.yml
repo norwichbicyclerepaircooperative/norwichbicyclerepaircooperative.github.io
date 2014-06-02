@@ -1,0 +1,11 @@
+name: "norwichbicyclerepaircooperative"
+description: "Norwich Bicycle Repair Cooperative"
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+#defaults:   # Doesn't work in stupid jekyll yet
+#  -
+#    scope:
+#      path:""
+#    values:
+#      layout:"default"

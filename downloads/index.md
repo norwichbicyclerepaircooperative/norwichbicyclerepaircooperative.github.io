@@ -1,0 +1,27 @@
+---
+title: Norwich Bicycle Co-operative - Downloads
+layout: default
+---
+
+# Downloads
+
+## [Articles of Association (AKA primary rules)](http://todo)
+
+These are the formal rules with which NBRC incorporated as a limited company.
+Somewhat dry as general reading, they may be useful for anyone who wishes to
+verify that we are a bona fide Co-operative or to verify that our claims to be
+fully mutual and not-for-profit are both true and contained within our
+constitution.
+
+## [NBRC Secondary rules](http://todo)
+
+These are the rules that guide the day to day running of our company.  They
+include criteria for membership as well as grievance and disciplinary
+procedures for members and employees.  May be of interest to members or
+employees (current or potential) other people thinking of setting up a co-op.
+
+## [NBRC Standard Employment Contract](http://todo)
+
+All NBRC Job Contracts are based on this template.  Useful for current and
+prospective employees.  We are happy for other Co-ops to use and adapt this
+template
