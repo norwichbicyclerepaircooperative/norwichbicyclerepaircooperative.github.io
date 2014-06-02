@@ -13,6 +13,7 @@ should go to:
  * [Acorn Co-op Support](http://www.acorncoopsupport.org.uk)
  * [The Co-operative Enterprise Hub](http://www.co-operative.coop/enterprise-hub/)
  * [Radical Routes](http://www.radicalroutes.org.uk/)
+ * [Birmingham Bike Foundry](http://birminghambikefoundry.org/what-we-do.html)
 {% endcapture %}
 
 {% include sidebar.html %}
