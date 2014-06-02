@@ -88,10 +88,9 @@ as the skills and experience you describe in the letter are true and a fair
 reflection of your abilities. We'd appreciate it if you mention in your letter
 if you've had assistance drafting it.
 
-There is also a short application form [link], which we need you to download
-and include, fully filled in, with your application. We can only accept
-applications that include a letter (written specifically, not a standard
-covering letter) and the form.
+Please include a copy of your CV with this letter – the CV need only be brief, but must include your contact details (with email address), and the names and addresses of two referees.
+
+We can only accept applications that include a letter (written specifically, not a standard covering letter) and a CV.
 
 ## Deadlines and key dates
 
