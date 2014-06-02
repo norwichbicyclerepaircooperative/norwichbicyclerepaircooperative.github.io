@@ -6,14 +6,14 @@ layout: default
 # Job Vacancies
 
 Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager, closing
-date for applications 28th June 2014.
+date for applications 2nd July 2014.
 
 ## What is the Job?
 
 Norwich Bicycle Repair Co-operative Ltd (NBRC) is seeking a new member to work
 in its busy workshop based at the University of East Anglia Campus. NBRC is a
 fully mutual workers' co-op, so our members not only do the routine work of the
-bus iness but share the responsibility for management too. NBRC is a relatively
+business but share the responsibility for management too. NBRC is a relatively
 new business, we formed in November 2013, however we're already in high demand
 delivering the UEA Dr Bike contract and have scope for further expansion in the
 future. We're a not-for-profit organisation with a strong ethical and
@@ -59,7 +59,7 @@ do this before applying.
 The job also has above the statutory minimum (5.6 weeks) paid holiday, though
 holiday periods are fixed in advance based on our contractual obligations.
 There are currently 6 full weeks plus UK Bank Holidays where we do not trade,
-forthcoming date until the end of 2015 can be found [here].
+forthcoming dates until the end of 2015 can be found [here](/holiday-dates/).
 
 The starting wage will be £6.31-£7.05 per hour, depending on experience;
 rising to £7.65-£7.91 per hour if you succeed in being accepted as a full
@@ -81,8 +81,8 @@ you've thought about all of the criteria; can show that you have relevant
 skills and experience in some areas; and have the aptitude to develop areas
 where you have less experience over the job's trial period.
 
-Also, while there are a lot of skills we are looking for, “being best at
-writing letters” is not the most important of them. So if this application
+Also, while there are a lot of skills we are looking for, "being best at
+writing letters" is not the most important of them. So if this application
 process seems daunting, it's fine to get some help writing your letter, so long
 as the skills and experience you describe in the letter are true and a fair
 reflection of your abilities. We'd appreciate it if you mention in your letter
@@ -95,9 +95,9 @@ covering letter) and the form.
 
 ## Deadlines and key dates
 
-The deadline for applications is noon on Friday the 28th of June 2014. We will
-email applicants that have been short-listed for interview by 7pm on Tuesday
-July 1st, sorry we will only have time to reply to your application personally
+The deadline for applications is noon on Friday the 2nd of July 2014. We will
+email applicants that have been short-listed for interview by 7pm on Saturday
+July 5th, sorry we will only have time to reply to your application personally
 if you have been short-listed for interview.
 
 We will be conducting interviews over the Mondays and Fridays between July 7th
@@ -134,7 +134,7 @@ need to repair and renovate cycles as part of the job, so you must want to do
 this and either already have the skills to do so to a high, consistent and
 professional standard or be willing to develop them. Previous experience of
 working in bicycle repair, or having attended a course of training would be an
-advantage, but is not an essential criteria. However if you don't have formal
+advantage, but is not an essential criterion. However if you don't have formal
 experience we would want to know at a minimum you can:
 
 * Correctly name and understand the function of most components on common
@@ -148,7 +148,7 @@ experience we would want to know at a minimum you can:
 Amateur mechanics should also show awareness that t he demands of a
 professional repair workshop can be quite different from domestic repair and
 that they might need to develop and modify their sk ills, even in areas where
-they can already carry ou t repairs to some extent. Even if you have
+they can already carry out repairs to some extent. Even if you have
 professional experience, not all workshops are the same so we will want to know
 you have the openness to develop, improve and keep current your skills whatever
 your starting point.
@@ -165,13 +165,13 @@ We are a small workers' co-op. This means that there isn't a manager down the
 corridor if we can't solve a problem for ourselves; equally there isn't a fleet
 of minions who turn up just to mop the floor or make the tea. Co-ops are a
 different type of business to most, with different values and organisational
-structures. Probably the most impor tant thing for this job is that you are
+structures. Probably the most important thing for this job is that you are
 able to fit in with our organisation, this means being able to take a
 reasonable level of personal responsibility and initiative while still being a
 good team player who is willing to muck in.
 
 Being co-operative includes being open, conscientious, easy-going: The thing
-about mending bicycles is that it really matters if you go wrong, so it’s
+about mending bicycles is that it really matters if you go wrong, so it's
 important that you take care with your work. And we have to admit where we may
 have messed up so we can get to the bottom of problems quickly. Plus we have to
 all get on really well or it just won’t work.
@@ -242,7 +242,7 @@ booking keeping and administrative roles.
 
 Are very important, both for communicating effectively within the co-op and
 with service users. Ideally you'll be able to project an out-going and friendly
-persona and explain technical problems inplain English. Many of our services
+persona and explain technical problems in plain English. Many of our services
 users do not have English as a first language, which can be an additional
 challenge when explaining mechanical problems to a non-technical audience.
 
@@ -271,11 +271,11 @@ life to this end will help us know understand whether you share our ethos.
 
 Applications should be sent to:
 
-    Norwich Bicycle Repair Co-operative Ltd
-    74 Irstead Rd
-    Norwich
-    Norfolk
-    NR5 8AR
+Norwich Bicycle Repair Co-operative Ltd  
+74 Irstead Rd  
+Norwich  
+Norfolk  
+NR5 8AR
 
-by 28th June 2014
+by 2nd July 2014
 

@@ -6,6 +6,18 @@ layout: default
 Dr Bike at UEA
 ==============
 
+
+{% capture sidebar_text %}
+We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
+Centre, behind Congregation Hall, UEA NR4 7TJ
+[Map](https://mapsengine.google.com/map/edit?mid=zvjpVdsj1xrw.kvj8wIJ7CTVk)
+
+For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike@norwichbicyclerepaircoop.co.uk) or call 07903 553 286
+
+[![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) You can also follow Dr Bike at UEA on Facebook 
+{% endcapture %}
+{% include sidebar.html %}
+
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
@@ -26,14 +38,4 @@ allocated on a first-come first-served basis. Staff and Students can can also
 pre-book for a free health and safety checks. We can offer assessment of repair
 needs and advice at any time.
 
-We also have a range of refurbished and guaranteed [bikes for sale]
-
-We can be found from Monday to Friday, 8.30am  4.30pm at the Dr Bike Repair
-Centre, behind Congregation Hall, UEA NR4 7TJ [map](https://mapsengine.google.com/map/edit?mid=zvjpVdsj1xrw.kvj8wIJ7CTVk)
-
-For more information email: [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike@norwichbicyclerepaircoop.co.uk)
-
-Or call 07903 553 286
-
-You can also follow Dr Bike at UEA on facebook
-
+We also have a range of refurbished and guaranteed [bikes for sale](/bikes-for-sale/).
