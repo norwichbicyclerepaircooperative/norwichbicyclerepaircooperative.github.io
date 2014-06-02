@@ -14,7 +14,7 @@ Centre, behind Congregation Hall, UEA NR4 7TJ
 
 For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike@norwichbicyclerepaircoop.co.uk) or call 07903 553 286
 
-[![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) You can also follow Dr Bike at UEA on Facebook 
+[![Visit us on Facebook](/static/images/fb_logo.png)](https://www.facebook.com/drbikeatuea) You can also follow Dr Bike at UEA on Facebook 
 {% endcapture %}
 {% include sidebar.html %}
 
