@@ -9,10 +9,6 @@ The Cycle Repair Centre will be closed on the following dates:
 
 ## 2014
 
-End June: Closed Monday & Friday, 26th June and 30th June 2014 (to cover owed staff holiday)
-
-Congregation: 21st July - 1st August 2014
-
 Summer Bank Holiday: Early May Bank Holiday: Closed Friday and Monday 22nd - 25th August
 
 Christmas: 22nd December 2014 - 2nd January 2015
