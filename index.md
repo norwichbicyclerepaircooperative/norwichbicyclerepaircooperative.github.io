@@ -11,6 +11,7 @@ University of East Anglia
 Norwich  
 NR4 7TJ  
 [Map](https://mapsengine.google.com/map/edit?mid=zvjpVdsj1xrw.kvj8wIJ7CTVk)  
+01603 503 924
 07903 553 286  
 enquiries@norwichbicyclerepaircoop.co.uk
 {% endcapture %}
