@@ -64,7 +64,7 @@ The job is initially for 24-26 hours per week.  We will need you to work full da
 or Wednesday or to split your remaining hours between these two days.  There may be 
 scope to extend your hours in the future. If you get to the interview stage we will
 want to discuss exactly which hours and days you will work, but it will need to be
-a minimum average of 24 per week during our normal opening hours (8.30am - 4.30pm, 
+a minimum average of 24 per week during our normal working hours (8.15am - 5.30pm, 
 Monday to Friday), so make sure you are able to do this before applying.
 
 The job also has above the statutory minimum (5.6 weeks) paid holiday, though
