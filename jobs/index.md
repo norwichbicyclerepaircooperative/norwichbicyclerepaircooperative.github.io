@@ -234,7 +234,7 @@ communicator.
 
 ### 5) Other useful skills and qualities
 
-Ability to cope with a hectic environment: Sometimes the service we run gets
+__Ability to cope with a hectic environment:__ Sometimes the service we run gets
 very busy and there are a lot of different things going on. At such times it's
 important to be able to get your head down and get on, even when there are
 potential distractions, and be supportive of the work other co-op members are
@@ -243,7 +243,7 @@ both quick and flexible. This doesn't happen all the time, but it happens often
 enough that if you're likely to be unhappy with hecticness or struggle with
 switching between tasks then this isn't the job for you.
 
-A positive social and environmental outlook: People who set up not-for-profit
+__A positive social and environmental outlook:__ People who set up not-for-profit
 bicycle repair projects are generally not primarily in it for the money. NBRC
 is an associate member of [Radical Routes](http://www.radicalroutes.org.uk/),
 and sees its work as making a positive contribution to a better world. Knowing
