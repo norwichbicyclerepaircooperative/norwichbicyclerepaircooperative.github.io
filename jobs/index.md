@@ -20,7 +20,7 @@ Closing date for applications 15th June 2015, 2pm.
 
 Norwich Bicycle Repair Co-operative Ltd (NBRC) is seeking a new member to work
 in its busy workshop based at the University of East Anglia Campus. NBRC is a
-fully mutual workers' co-op, so our permenant employees (members) are all directors of the business and
+fully mutual workers' co-op, so our permanent employees (members) are all directors of the business and
 not only do the routine work of the business but share the responsibility for management too. 
 
 NBRC is relatively new, we formed in November 2013, however we're already
@@ -39,7 +39,7 @@ environmental ethos.
   development of the business
 * Taking shared responsibility for the mundane, but necessary, tasks like
   cleaning up, washing up and maintenance.
-* Working co-operatively with other members, including attending managment meetings.
+* Working co-operatively with other members, including attending management meetings.
 * Anything else that should arise - we're a new business so new challenges are a
   reasonably regular occurrence!
 
