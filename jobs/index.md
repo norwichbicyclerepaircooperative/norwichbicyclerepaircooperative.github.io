@@ -73,7 +73,7 @@ There are currently 6 full weeks plus UK Bank Holidays where we do not trade,
 forthcoming dates until the end of 2016 can be found [here](/holiday-dates/).
 
 The starting wage will be £7.05 per hour; rising to a minimum of £7.85 per hour (or
-the current living wage as set by [The Living Wage Foundation](http://www.livingwage.org.uk/) if you
+the current living wage as set by [The Living Wage Foundation](http://www.livingwage.org.uk/)) if you
 succeed in being accepted as a full member (as a full member you'll be involved in
 deciding how wages are set - we always aim to make these a fair reflection of the 
 responsibility associated with each particular job within the co-op).
@@ -276,7 +276,10 @@ member of the team we will invite you to become a co-op member, which you can
 accept if you wish or leave us. Becoming a full member of NBRC requires
 becoming a director of NBRC, is a permanent role and involves having equal
 rights and responsibilities within the organisation as all other members.
-Applications should be sent to:
+
+We hope our new recruit will be able to start in the week commencing August 3rd 2015.
+
+__Applications should be sent to:__
 
 __Norwich Bicycle Repair Co-operative Ltd  
 74 Irstead Rd  
