@@ -34,7 +34,7 @@ environmental ethos.
 * Undertaking routine record keeping associated with running a bicycle shop and
   workshop
 * Undertaking bicycle safety checks
-* Explaining our services, repairs and products to services users and taking payments
+* Explaining our services, repairs and products to service users and taking payments
 * Taking shared responsibility for the running, financial management and
   development of the business
 * Taking shared responsibility for the mundane, but necessary, tasks like
