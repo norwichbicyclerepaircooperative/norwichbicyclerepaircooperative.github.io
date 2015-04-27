@@ -5,7 +5,7 @@ layout: default
 
 # Job Vacancies
 
-{% capture sidebar_text %} ####Are you an aspirant female cycle mechanic?
+{% capture sidebar_text %} __Are you an aspirant female cycle mechanic?__
 
 We especially encourage applications from women, as they are under-represented in the cycle trade and as one of the aims of our project is to provide a female-friendly service.
 
