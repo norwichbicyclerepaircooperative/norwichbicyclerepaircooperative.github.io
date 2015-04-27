@@ -5,21 +5,30 @@ layout: default
 
 # Job Vacancies
 
-Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager, closing
-date for applications 2nd July 2014.
+{% capture sidebar_text %} Are you an aspirant female cycle mechanic?
+
+We especially encourage applications from women, as they are under-represented in the cycle trade and as one of the aims of our project is to provide a female-friendly service.
+
+Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
+
+__Current Vacancy:__ Co-op member/Bicycle Repair person/Project co-manager (training provided), closing
+date for applications 15th June 2015, 2pm.
+
+#### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
 
 ## What is the Job?
 
 Norwich Bicycle Repair Co-operative Ltd (NBRC) is seeking a new member to work
 in its busy workshop based at the University of East Anglia Campus. NBRC is a
-fully mutual workers' co-op, so our members not only do the routine work of the
-business but share the responsibility for management too. NBRC is a relatively
-new business, we formed in November 2013, however we're already in high demand
-delivering the UEA Dr Bike contract and have scope for further expansion in the
-future. We're a not-for-profit organisation with a strong ethical and
+fully mutual workers' co-op, so our permenant employees (members) are all directors of the business and
+not only do the routine work of the business but share the responsibility for management too. 
+
+NBRC is relatively new, we formed in November 2013, however we're already
+in high demand delivering the UEA Dr Bike contract and have scope for further expansion
+in the future. We're a not-for-profit organisation with a strong ethical and
 environmental ethos.
 
-The job we need to fill will involve:
+####The job we need to fill will, following training, involve:
 
 * Mending and refurbishing bicycles to a professional standard
 * Undertaking routine record keeping associated with running a bicycle shop and
@@ -30,13 +39,13 @@ The job we need to fill will involve:
   development of the business
 * Taking shared responsibility for the mundane, but necessary, tasks like
   cleaning up, washing up and maintenance.
-* Working co-operatively with other members.
+* Working co-operatively with other members, including attending managment meetings.
 * Anything else that should arise - we're a new business so new challenges are a
   reasonably regular occurrence!
 
-You won't need to do all these things right away, but you will need to be able
+__You won't need to do all these things right away, but you will need to be able
 to contribute to some of them from the beginning and be willing to learn the
-rest.
+rest.__
 
 We're looking for someone who wants to do more than just mend bikes, but is also
 interested in becoming a full and active member of our Co-operative with joint
@@ -48,38 +57,38 @@ goals. We're also looking for someone who has commitment to the job as the trial
 period for membership takes 6-9 months and really getting up to speed with all
 aspects of the job may take even longer.
 
-The job is initially for 24 hours per week, which could be organised as either a
-3 day week or a shorter hours 4 day a week post/school hours friendly position.
-There may be scope to extend your hours in the future. If you get to the
-interview stage we will want to discuss exactly which hours and days you will
-work, but it will need to be a minimum average of 24 per week during our normal
-opening hours (8.30am - 4.30pm, Monday to Friday), so make sure you are able to
-do this before applying.
+##Hours and Pay
+
+The job is initially for 24-26 hours per week.  We will need you to work full days
+(8-9hours) Thursday and Fridays and there will be a choice to work either Tuesday
+or Wednesday or to split your remaining hours between these two days.  There may be 
+scope to extend your hours in the future. If you get to the interview stage we will
+want to discuss exactly which hours and days you will work, but it will need to be
+a minimum average of 24 per week during our normal opening hours (8.30am - 4.30pm, 
+Monday to Friday), so make sure you are able to do this before applying.
 
 The job also has above the statutory minimum (5.6 weeks) paid holiday, though
 holiday periods are fixed in advance based on our contractual obligations.
 There are currently 6 full weeks plus UK Bank Holidays where we do not trade,
-forthcoming dates until the end of 2015 can be found [here](/holiday-dates/).
+forthcoming dates until the end of 2016 can be found [here](/holiday-dates/).
 
-The starting wage will be £6.31-£7.05 per hour, depending on experience;
-rising to £7.65-£7.91 per hour if you succeed in being accepted as a full
-member (as a full member you'll be involved in deciding how wages are set - we
-always aim to make these a fair reflection of the responsibility associated
-with each particular job within the co-op).
+The starting wage will be £7.05 per hour; rising to a minimum of £7.85 per hour (or
+the current living wage as set by [The Living Wage Foundation](http://www.livingwage.org.uk/) if you
+succeed in being accepted as a full member (as a full member you'll be involved in
+deciding how wages are set - we always aim to make these a fair reflection of the 
+responsibility associated with each particular job within the co-op).
 
 ## How do I apply?
 
-If you would like to apply for this position please read the Job Applicant
+If you would like to apply for this position please read the __five__ Job Applicant
 Criteria below which describe the aptitudes and skills we are looking for. If
 you still think you'd like to apply then write us a letter explaining why you
 would like to be a member of our co-op, making sure it includes information
-about your skills, experience and aptitudes for each of the criteria.
+about your skills, experience and aptitudes for each of the __five__ criteria.
 
-As we've mentioned, it is not necessary to have lots of experience for all the
-criteria we mention right away. However we would like to see evidence that
-you've thought about all of the criteria; can show that you have relevant
-skills and experience in some areas; and have the aptitude to develop areas
-where you have less experience over the job's trial period.
+####We will only be able to consider applications that contain _both_ a letter and a CV
+
+As we've mentioned, it is not necessary to have lots of experience for all the criteria we mention right away. However we would like to see evidence that you've thought about all of the criteria; can show that you have relevant skills and experience in some areas; and have the aptitude to develop areas where you have less experience over the job's trial period.  By aptitude we mean evidence that, for example, you have a systematic, problem-solving approach; you have previously gained proficiency in a craft, mechanical or technical skill and/or you are able to effectively manage your own learning.
 
 Also, while there are a lot of skills we are looking for, "being best at
 writing letters" is not the most important of them. So if this application
@@ -88,35 +97,11 @@ as the skills and experience you describe in the letter are true and a fair
 reflection of your abilities. We'd appreciate it if you mention in your letter
 if you've had assistance drafting it.
 
-Please include a copy of your CV with this letter – the CV need only be brief, but must include your contact details (with email address), and the names and addresses of two referees.
+Please include a copy of your CV with this letter – the CV need only be brief, but must include your contact details __(with email address)__, and the names and addresses of __two referees__.
 
 We can only accept applications that include a letter (written specifically, not a standard covering letter) and a CV.
 
-## Deadlines and key dates
 
-The deadline for applications is noon on Friday the 2nd of July 2014. We will
-email applicants that have been short-listed for interview by 7pm on Saturday
-July 5th, sorry we will only have time to reply to your application personally
-if you have been short-listed for interview.
-
-We will be conducting interviews over the Mondays and Fridays between July 7th
-and 18th. We expect the interviews to last 2-3 hours and these will involve
-some practical elements so you can demonstrate your knowledge.  You will need
-to bring proof that you are eligible to work in the UK to your interview.
-
-##What happens next?
-
-The successful applicant for this post will initially be recruited as an
-employee of NBRC on a temporary contract for between 6 and 9 months (depending
-on initial skill level). During this trial period either the applicant or NBRC
-can terminate the contract with 4 weeks notice. There will be a clear plan for
-demonstrating/developing all the skills and experience needed to become a full
-member of NBRC (over the trial period, with routine reviews to monitor
-progress). If, at the end of the temporary contract, we are happy with you as a
-member of the team we will invite you to become a co-op member, which you can
-accept if you wish or leave us. Becoming a full member of NBRC requires
-becoming a director of NBRC, is a permanent role and involves having equal
-rights and responsibilities within the organisation as all other members.
 
 ##Job applicant criteria
 
@@ -136,17 +121,15 @@ working in bicycle repair, or having attended a course of training would be an
 advantage, but is not an essential criterion. However if you don't have formal
 experience we would want to know at a minimum you can:
 
-* Correctly name and understand the function of most components on common
-  bicycle types
+* Correctly name and understand the function of most components on common bicycle types
 * Know how a bicycle should be set-up to ride
-* Can recognise when something is wrong (even if you cannot give a detailed
-  diagnosis, or (currently) carry out the repair).
-* Have DIY maintenance experience
+* Can recognise when something is wrong (even if you cannot give a detailed diagnosis, or (currently) carry out the repair).
+* Have experience caring for and maintaining your own cycle, or those of friends and family.
 * Show aptitude to develop these skills rapidly on the job
 
-Amateur mechanics should also show awareness that t he demands of a
+Amateur mechanics should also show awareness that the demands of a
 professional repair workshop can be quite different from domestic repair and
-that they might need to develop and modify their sk ills, even in areas where
+that they might need to develop and modify their skills, even in areas where
 they can already carry out repairs to some extent. Even if you have
 professional experience, not all workshops are the same so we will want to know
 you have the openness to develop, improve and keep current your skills whatever
@@ -160,7 +143,7 @@ cycling with children or audax.
 
 ### 2) Keen to co-operate
 
-We are a small workers' co-op. This means that there isn't a manager down the
+We are a small workers' co-operative. This means that there isn't a manager down the
 corridor if we can't solve a problem for ourselves; equally there isn't a fleet
 of minions who turn up just to mop the floor or make the tea. Co-ops are a
 different type of business to most, with different values and organisational
@@ -268,13 +251,38 @@ whether you're already involved in activities (paid or unpaid) that aim to
 create positive social or environmental change; or make choices in you personal
 life to this end will help us know understand whether you share our ethos.
 
+## Deadlines and key dates
+
+The deadline for applications is 2pm on Monday 15th June 2015. We will
+email applicants that have been short-listed for interview by 7pm on Monday
+22nd June, sorry we will only have time to reply to your application personally
+if you have been short-listed for interview.
+
+We will be conducting interviews between June 29th and July 10th. 
+We expect the interviews to last 2-3 hours and these will involve
+some practical elements so you can demonstrate your knowledge.  You will need
+to bring proof that you are eligible to work in the UK to your interview.
+
+##What happens next?
+
+The successful applicant for this post will initially be recruited as an
+employee of NBRC on a temporary contract for between 6 and 9 months (depending
+on initial skill level). During this trial period either the applicant or NBRC
+can terminate the contract with 4 weeks notice. There will be a clear plan for
+demonstrating/developing all the skills and experience needed to become a full
+member of NBRC (over the trial period, with routine reviews to monitor
+progress). If, at the end of the temporary contract, we are happy with you as a
+member of the team we will invite you to become a co-op member, which you can
+accept if you wish or leave us. Becoming a full member of NBRC requires
+becoming a director of NBRC, is a permanent role and involves having equal
+rights and responsibilities within the organisation as all other members.
 Applications should be sent to:
 
-Norwich Bicycle Repair Co-operative Ltd  
+__Norwich Bicycle Repair Co-operative Ltd  
 74 Irstead Rd  
 Norwich  
 Norfolk  
-NR5 8AR
+NR5 8AR__
 
-by 2nd July 2014
+by 15th June 2015
 
