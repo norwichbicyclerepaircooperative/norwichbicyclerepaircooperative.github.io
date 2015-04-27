@@ -11,8 +11,8 @@ We especially encourage applications from women, as they are under-represented i
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
-__Current Vacancy:__ Co-op member/Bicycle Repair person/Project co-manager (training provided), closing
-date for applications 15th June 2015, 2pm.
+###Current Vacancy:Co-op member/Bicycle Repair person/Project co-manager (training provided),
+closing date for applications 15th June 2015, 2pm.
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
 
