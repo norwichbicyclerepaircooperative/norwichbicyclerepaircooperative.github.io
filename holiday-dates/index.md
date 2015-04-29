@@ -10,8 +10,6 @@ The Cycle Repair Centre will be closed on the following dates:
 
 ## 2015
 
-Easter: 30th March 10th April
-
 May Day Bank Holiday: Closed Friday and Monday 1st - 4th May
 
 Spring Bank Holiday: Closed Friday and Monday 22nd - 25th May
