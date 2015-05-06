@@ -20,7 +20,7 @@ include criteria for membership as well as grievance and disciplinary
 procedures for members and employees.  May be of interest to members or
 employees (current or potential) other people thinking of setting up a co-op.
 
-## [NBRC Standard Employment Contract](/downloads/NBRC Standard Employment Contract - general template.pdf)
+## [NBRC Standard Employment Contract](/downloads/Employment contract v2.pdf)
 
 All NBRC Job Contracts are based on this template.  Useful for current and
 prospective employees.  We are happy for other Co-ops to use and adapt this
