@@ -10,7 +10,7 @@ The Cycle Repair Centre will be closed on the following dates:
 
 ## 2015
 
-Spring Bank Holiday: Closed Friday and Monday 22nd - 25th May
+Wednesday June 17th - closed for our AGM
 
 Congregation: 20th - 31st July
 
