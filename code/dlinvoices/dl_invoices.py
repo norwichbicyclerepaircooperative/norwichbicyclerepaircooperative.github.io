@@ -41,7 +41,8 @@ inv_urls = [e.get_attribute("href") for e in driver.find_elements_by_link_text("
 for inv_url in inv_urls:
     driver.get(inv_url)
     time.sleep(3)
-    e = driver.find_element_by_id("ctl00_ContentPlaceHolder1_uiReport_ctl05_ctl04_ctl00_ButtonLink")
+    #e = driver.find_element_by_id("ctl00_ContentPlaceHolder1_uiReport_ctl05_ctl04_ctl00_ButtonLink")
+    e = driver.find_element_by_id("ctl00_ContentPlaceHolder1_uiReport_ctl05_ctl04_ctl00_ButtonImgDown")
     e.click()
     time.sleep(3)
     excel_e = driver.find_element_by_link_text("Excel")
