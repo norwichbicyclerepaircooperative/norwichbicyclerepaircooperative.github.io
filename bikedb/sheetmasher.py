@@ -5,7 +5,6 @@ spreadsheet for analysis etc.
 """
 
 from openpyxl import Workbook, load_workbook
-from collections import OrderedDict
 
 
 class NoSuchNumberException(Exception):
@@ -96,16 +95,16 @@ def process():
             bcfields['Frame'],
             bcfields['Type'],
             bifields['Colour'],
-            bcfields['Frame number'],
-            bifields['Date acquired'],
+            bcfields['Frame_number'],
+            bifields['Date_acquired'],
             bifields['Destination'],
             bifields['Serial No. or Invoice No.'],
-            bifields['Price'],
-            bcfields['Date finished'],
+            bifields['Price_paid'],
+            bcfields['Date_finished'],
             bcfields['Mechanic'],
-            bsfields['Date sold'],
-            bsfields['Receipt no.'],
-            bsfields['Price'],
+            bsfields['Date_sold'],
+            bsfields['Receipt-no.'],
+            bsfields['Price_sold'],
         )
         #print(out_row)
         ws.append(out_row)
