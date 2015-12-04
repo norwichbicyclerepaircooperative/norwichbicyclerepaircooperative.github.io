@@ -5,6 +5,9 @@ spreadsheet for analysis etc.
 """
 
 from openpyxl import Workbook, load_workbook
+import os
+
+working_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 class NoSuchNumberException(Exception):
@@ -24,6 +27,7 @@ class BikeSheet(object):
 
     def __init__(self, filename):
         self.header_row = self.header_rows[filename]
+        filename = os.path.join(working_dir, filename)
         self.book = load_workbook(filename)
         self.sheet = self.book.active  # book.get_sheet_by_name("Sheet1")
         self.get_cols()
@@ -108,7 +112,8 @@ def process():
         )
         #print(out_row)
         ws.append(out_row)
-    wb.save("out.xlsx")
+    output_file = os.path.join(working_dir, "out.xlsx")
+    wb.save(output_file)
 
 
 if __name__ == "__main__":
