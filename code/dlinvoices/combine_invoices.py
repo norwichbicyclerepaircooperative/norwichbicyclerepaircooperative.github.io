@@ -9,11 +9,11 @@ wb_out = Workbook()
 sheet_out = wb_out.active
 sheet_out.append(("invoice_no", "invoice_date", "product_code", "product_desc", "qty", "your_price", "total_price"))
 
-for fname in os.listdir("./invoices/"):
-    if not fname.endswith(".xlsx"):
-        continue
-    print(fname)
-    book = load_workbook(os.path.join("./invoices/", fname))
+for invoice_no in os.listdir("./invoices/"):
+    assert invoice_no.isdigit()
+    filename = os.path.join("invoices", invoice_no, "Invoice.xlsx")
+    assert os.path.isfile(filename)
+    book = load_workbook(filename)
     sheet = book.active
     invoice_no =sheet['K3'].value
     invoice_date = sheet['J5'].value
