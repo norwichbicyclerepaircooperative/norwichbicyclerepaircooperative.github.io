@@ -12,7 +12,7 @@ We especially encourage applications from women and other minority groups, as th
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
 ###Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided)
-Closing date for applications: __Tuesday 7th March 2pm__.
+Closing date for applications: __Tuesday 15th August 2pm__.
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
 
@@ -250,14 +250,14 @@ life to this end will help us know understand whether you share our ethos.
 
 ## Deadlines and key dates
 
-The deadline for applications is 2pm on Monday 7th March 2017. We will
+The deadline for applications is 2pm on Tuesday 15th August 2017. We will
 email applicants that have been short-listed for interview by 10 am on Thursday
-9th of March. Sorry, we will only have time to reply to your application personally
+17th of August. Sorry, we will only have time to reply to your application personally
 if you have been shortlisted for interview.
 
-We will be conducting interviews from Monday 27th March to Wednesday 4th April. 
-We expect the interviews to last 2-3 hours and these will involve
-some practical elements so you can demonstrate your knowledge. You will need
+We will be conducting interviews shortly after applicants have been shortlisted. 
+Interviews typically last 1 to 2 hours and involve
+some practical elements so that you can demonstrate your knowledge. You will need
 to bring proof that you are eligible to work in the UK to your interview.
 
 ##What happens next?
@@ -274,15 +274,15 @@ accept if you wish. Becoming a full member of NBRC requires
 becoming a director of NBRC, is a permanent role and involves having equal
 rights and responsibilities within the organisation as all other members.
 
-We hope our new recruit will be able to start in the week commencing Monday 8th May 2017.
+We hope our new recruit will be able to start working with us in September.
 
 __Applications should be sent to:__
 
 __Norwich Bicycle Repair Co-operative Ltd  
-74 Irstead Rd  
+20 Savery Close
 Norwich  
 Norfolk  
-NR5 8AR__
+NR5 8NJ__
 
-by 7th March 2017
+by 15th August 2017
 
