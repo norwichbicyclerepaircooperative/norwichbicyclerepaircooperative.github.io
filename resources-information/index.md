@@ -5,4 +5,4 @@ layout: default
 
 # Articles
 
-## [Bicycle quality and pricing – a guide](/resources-information/quality-pricing-guide/)
+## [Bicycle quality and pricing – a guide](http://www.norwichbicyclerepaircoop.co.uk/resources-information/quality-pricing-guide/)
