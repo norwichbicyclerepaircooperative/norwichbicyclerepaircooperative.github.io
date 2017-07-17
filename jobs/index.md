@@ -11,8 +11,9 @@ We especially encourage applications from women and other minority groups, as th
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
-###Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided)
-Closing date for applications: __Tuesday 15th August 2pm__.
+# __THIS VACANCY IS CLOSED UNTIL FURTHER NOTICE__
+
+#### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: __Tuesday 15th August 2pm__.
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
 
@@ -28,7 +29,7 @@ in high demand delivering the UEA Dr Bike contract and have scope for further ex
 in the future. We're a not-for-profit organisation with a strong ethical and
 environmental ethos.
 
-####The job we need to fill will, following training, involve:
+#### The job we need to fill will, following training, involve:
 
 * Mending and refurbishing bicycles to a professional standard
 * Undertaking routine record keeping associated with running a bicycle shop and
@@ -57,7 +58,7 @@ goals. We're also looking for someone who has commitment to the job as the trial
 period for membership takes 6-9 months and really getting up to speed with all
 aspects of the job may take even longer.
 
-##Hours and Pay
+## Hours and Pay
 
 The job is initially for 24-26 hours per week.  We will need you to work full days
 (8-9hours) on Mondays, Tuesdays and Wednesdays, although these days may be negotiable. There may be 
@@ -83,7 +84,7 @@ you still think you'd like to apply then write us a letter explaining why you
 would like to be a member of our co-op, making sure it includes information
 about your skills, experience and aptitudes for each of the __five__ criteria.
 
-####We will only be able to consider applications that contain _both_ a letter and a CV
+#### We will only be able to consider applications that contain _both_ a letter and a CV
 
 As we've mentioned, it is not necessary to have lots of experience for all the criteria we mention right away. However we would like to see evidence that you've thought about all of the criteria; can show that you have relevant skills and experience in some areas; and have the aptitude to develop areas where you have less experience over the job's trial period. By aptitude we mean evidence that, for example, you have a systematic, problem-solving approach; you have previously gained proficiency in a craft, mechanical or technical skill and/or you are able to effectively manage your own learning.
 
@@ -100,7 +101,7 @@ We can only accept applications that include a letter (written specifically, not
 
 
 
-##Job applicant criteria
+## Job applicant criteria
 
 ### 1) Enthusiastic about bicycles
 
@@ -260,7 +261,7 @@ Interviews typically last 1 to 2 hours and involve
 some practical elements so that you can demonstrate your knowledge. You will need
 to bring proof that you are eligible to work in the UK to your interview.
 
-##What happens next?
+## What happens next?
 
 The successful applicant for this post will initially be recruited as an
 employee of NBRC on a temporary contract for between 6 and 9 months (depending
