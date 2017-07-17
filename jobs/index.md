@@ -11,7 +11,7 @@ We especially encourage applications from women and other minority groups, as th
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
-# __THIS VACANCY IS CLOSED UNTIL FURTHER NOTICE__
+## __THIS VACANCY IS CLOSED UNTIL FURTHER NOTICE__
 
 #### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: __Tuesday 15th August 2pm__.
 
