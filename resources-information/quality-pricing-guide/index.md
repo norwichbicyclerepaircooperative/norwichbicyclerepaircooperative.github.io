@@ -12,6 +12,7 @@ No! The quality of a bicycle is determined by the quality of its components and 
 * Noisy, ineffective brakes
 * Slow tyres with negligible puncture resistance
 * Premature failure of components such as wheels, brake levers and pedals
+
 The result is a bicycle which needs frequent maintenance at relatively high cost just to function reliably. Many, many bikes come through our workshop and it is not uncommon at all to see cheap, new ones needing more than £80 worth of maintenance and repair within the first year of their life. This just doesn't make sense to the consumer who originally bought a cheap bicycle with the intention of saving money.
 
 ### Identifying quality new bicycles
