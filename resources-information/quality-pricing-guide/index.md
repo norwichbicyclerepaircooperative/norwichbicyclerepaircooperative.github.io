@@ -36,3 +36,7 @@ Always test ride a bike before buying if possible. This is a really important wa
 
 If you are a UEA campus card holder, you can get a free health check on any bicycle you bring to our shop on campus. This allows us to provide the customer with a thorough report on the condition of a bicycle.
 
+
+
+This article was last updated on 27/07/17
+
