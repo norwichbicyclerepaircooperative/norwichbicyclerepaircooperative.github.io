@@ -12,7 +12,7 @@ Bikes for Sale
 
 If you can't see what you're looking for here that doesn't mean we don't have it! We have lots of bicycles in storage and we want to get the right one for you, so tell us what you're looking for and we'll do our best to find it.
 
-You might also want to have a look at our guide to buying a bicycle in the Information and Resources part of the website.
+You might also want to have a look at our guide to bicycle quality and pricing in the Information and Resources part of the website.
 
 Fully refurbished with a 3 month guarantee
 ------------------------------------------
@@ -24,3 +24,8 @@ Raleigh Ace 23.5" frame. 5 speed.. 3 month guarantee. Fully refurbished. £160
 Falcon Race 10. 23.5" frame. 10 speed . 3 month guarantee. Fully refurbished. £160
 
 
+![/static/images/IMG_1147.JPG](./IMG_1147.JPG/pic1_50.png =100x20)
+
+IMG_1147.JPG
+
+![](./pic/pic1_50.png =100x20)
