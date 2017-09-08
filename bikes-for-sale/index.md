@@ -17,10 +17,10 @@ You might also want to have a look at our guide to buying a bicycle in the Infor
 Fully refurbished with a 3 month guarantee
 ------------------------------------------
 
-[![/static/images/IMG_1147.JPG](/static/images/IMG_1147.JPG)]
+[![/static/images/IMG_1147.JPG](/static/images/IMG_1147.JPG)](https://www.facebook.com/drbikeatuea/photos/a.10159358552855370.1073741830.312671550369/10159358553260370/?type=3&theater)
 Raleigh Ace 23.5" frame. 5 speed.. 3 month guarantee. Fully refurbished. £160
 
-[![/static/images/IMG_1148.TPG](/static/images/IMG_1148.JPG)]
+[![/static/images/IMG_1148.JPG](/static/images/IMG_1148.JPG)]
 Falcon Race 10. 23.5" frame. 10 speed . 3 month guarantee. Fully refurbished. £160
 
 
