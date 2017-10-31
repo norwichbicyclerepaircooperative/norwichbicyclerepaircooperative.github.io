@@ -17,7 +17,7 @@ Selection for the job will, of course, be made on merit and we welcome applicati
 
 ## [Bicycle quality and pricing – a guide](http://www.norwichbicyclerepaircoop.co.uk/resources-information/quality-pricing-guide/)
 
-## [Job description](http://www.norwichbicyclerepaircooperative.github.io/jobs/Job description and overview 2017.pdf)
+## [Job description](http://www.norwichbicyclerepaircooperative.co.uk/jobs/Job description and overview 2017.pdf)
 
 
 ## What is the Job?
