@@ -11,11 +11,14 @@ We especially encourage applications from women and other minority groups, as th
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
-## __THIS VACANCY IS CLOSED UNTIL FURTHER NOTICE__
-
-#### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: __Tuesday 15th August 2pm__.
+#### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: __Friday 1st December 2pm__.
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
+
+## [Bicycle quality and pricing – a guide](http://www.norwichbicyclerepaircoop.co.uk/resources-information/quality-pricing-guide/)
+
+## [Job description](norwichbicyclerepaircooperative.github.io/jobs/Job description and overview 2017.pdf)
+
 
 ## What is the Job?
 
