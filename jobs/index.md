@@ -11,7 +11,7 @@ We especially encourage applications from women and people who are under-represe
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
-#### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: __Friday 1st December 2pm__.
+#### Current Vacancy: Co-op member/Bicycle Repair person/Project co-manager (training provided). Closing date for applications: THURSDAY 14TH DECEMBER (extended from Friday 1st December).
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
 
@@ -32,5 +32,5 @@ Norwich
 Norfolk  
 NR5 8NJ__
 
-by 2pm, Friday 1st December
+by midnight, Thursday 14th December
 
