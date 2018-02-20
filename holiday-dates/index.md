@@ -8,27 +8,21 @@ layout: default
 The Cycle Repair Centre will be closed on the following dates:
 
 
-## 2015
+## 2018
 
-Wednesday June 17th - closed for our AGM
+New Year's Day: Monday 1 January.
 
-Congregation: 20th - 31st July
+Good Friday: Friday 30 March.
 
-Summer Bank Holiday: Closed Friday and Monday 28th - 31th August
+Easter Monday: Monday 2 April.
 
-Christmas: December 21st - January 4th 2016
+Early May bank holiday: Monday 7 May.
 
-## 2016
+Spring bank holiday: Monday 28 May.
 
-Easter: 21st March - 1st April
+NBRC Annual general meeting: TBC
 
-May Day Bank Holiday: Closed Friday and Monday 29th April - 2nd May
+Summer bank holiday: Monday 27 August.
 
-Spring Bank Holiday: Closed Friday and Monday 27th - 30th May
-
-Congregation: tbc
-
-Summer Bank Holiday: Closed Friday and Monday 26th - 29th August
-
-Christmas: December 19th - Tuesday January 3rd 2017
+Christmas opening hours: TBC
 
