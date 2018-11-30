@@ -5,7 +5,7 @@ layout: default
 
 Dr Bike at UEA
 ==============
-
+We repair bikes and sell refurbished and guaranteed [bikes for sale](/bikes-for-sale/).
 
 {% capture sidebar_text %}
 We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
@@ -38,4 +38,4 @@ allocated on a first-come first-served basis. Staff and Students can can also
 pre-book for a free health and safety checks. We can offer assessment of repair
 needs and advice at any time.
 
-We also have a range of refurbished and guaranteed [bikes for sale](/bikes-for-sale/).
+
