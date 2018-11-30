@@ -16,9 +16,11 @@ You might also want to have a look at our guide to bicycle quality and pricing i
 
 Fully refurbished with a 3 month guarantee
 ------------------------------------------
-<img src="/static/images/IMG_20181130_092250[2].JPG" width="800" height="600" />
+<img src="/static/images/IMG_20181130_092250[2].jpg" width="800" height="600" />
 Black 3 Speed hub geared town bike with rear drum brake and North Road comfort bars. 3 month guarantee. Fully refurbished. £270
-------------------------------------------
+======================================================
+
+
 THESE BIKES ARE NO LONGER AVAILABLE
 Let us know if you would like something similar and we may be able to build it up for you.
 
