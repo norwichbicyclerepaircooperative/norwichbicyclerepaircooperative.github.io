@@ -7,9 +7,9 @@ layout: default
 
 {% capture sidebar_text %} __Are you an aspiring female cycle mechanic?__
 
-We especially encourage applications from women and people who are under-represented in the cycle trade. One of the aims of our project is to provide a female-friendly service that is inclusive for all.
+<img src="/static/images/IMG_20181024_161900.jpg" width="200" height="150" />
 
-<img src="/static/images/IMG_20181024_161900.jpg" width="400" height="250" />
+We especially encourage applications from women and people who are under-represented in the cycle trade. One of the aims of our project is to provide a female-friendly service that is inclusive for all.
 
 Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
 
