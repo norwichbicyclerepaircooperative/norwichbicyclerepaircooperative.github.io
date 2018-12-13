@@ -19,7 +19,7 @@ Selection for the job will, of course, be made on merit and we welcome applicati
 Closing date: N/A
 Start date: from mid-January.
 
-### Co-op member/Cycle Mechanic/Project Co-manager##
+### Co-op member/Cycle Mechanic/Project Co-manager
 Full training provided. See Job Sepcification for details.
 Closing date for applications TBC.
 
@@ -33,7 +33,7 @@ NBRC is a growing business serving the students and staff of UEA and the local a
 
 ### Temporary Cycle Mechanic
 
-## [Job description](/jobs/Short_Term_Bicycle_Mechanic.pdf)
+## [Job description](/jobs/Short_Term-casual_Bicycle_Mechanic.pdf)
 
 ### Full Co-op Member/Cycle Mechanic/Project Co-manager
 
