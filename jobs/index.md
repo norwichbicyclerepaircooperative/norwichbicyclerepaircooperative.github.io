@@ -37,7 +37,7 @@ NBRC is a growing business serving the students and staff of UEA and the local a
 
 ### Full Co-op Member/Cycle Mechanic/Project Co-manager
 
-## [Job description](/jobs/Job_description_and_overview_2017.pdf)
+## [Job description](/jobs/Job_advert_web_text_extended_overview_2018_edited by Su.pdf)
 
 ## [Job specification](/jobs/Job_specification_2017.pdf)
 
