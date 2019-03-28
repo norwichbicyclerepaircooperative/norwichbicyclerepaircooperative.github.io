@@ -29,12 +29,12 @@ and students to use our facilities to maintain their bikes.
 
 We offer all students and staff the following services:
 
+### Free Dr Bike Health Checks ###
+
 {% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="200" height="350" />
+<img src="/static/images/diy_tool_board.jpg" width="250" height="350" />
 {% endcapture %}
 {% include sidebar.html %}
-
-### Free Dr Bike Health Checks ###
 
 We will assess your bike and give you a written report with clear and jargon-
 free explanations.
