@@ -42,7 +42,7 @@ We can also offer on the spot assessment of repair needs and advice at any time.
 We may recommend a health check if there are multiple repair issues.
 
 {% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="300" height="400" />
+<img src="/static/images/diy_tool_board.jpg" width="290" height="400" />
 {% endcapture %}
 {% include sidebar.html %}
 
