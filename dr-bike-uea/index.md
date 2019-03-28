@@ -58,7 +58,7 @@ We have:
  
 ### Subsidised Brake Labour ###
 
-We're a safety focussed project so _all brake *labour* is capped at £12 for students and staff_ (excluding parts). In collaboration with UEA we aim for safe brakes to be affordable whether you're having a coaster brake serviced, or new pads and cables. (Obviously it can also be less than that for smaller adjustments).
+We're a safety focussed project so _all brake __labour__ is capped at £12 for students and staff_, excluding parts. In collaboration with UEA we aim for safe brakes to be affordable whether you're having a coaster brake serviced, or new pads and cables. (Obviously it can also be less than that for smaller adjustments).
 
 ### Education and Workshops ###
 
