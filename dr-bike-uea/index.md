@@ -42,7 +42,7 @@ We can also offer on the spot assessment of repair needs and advice at any time.
 We may recommend a health check if there are multiple repair issues.
 
 {% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="285" height="400" />
+<img src="/static/images/diy_tool_board.jpg" width="288" height="400" />
 {% endcapture %}
 {% include sidebar.html %}
 
@@ -55,6 +55,10 @@ We have:
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use
+ 
+### Subsidised Brake Labour ###
+
+We're a safety focussed project so _all brake *labour* is capped at £12 for students and staff_ (excluding parts). In collaboration with UEA we aim for safe brakes to be affordable whether you're having a coaster brake serviced, or new pads and cables. (Obviously it can also be less than that for smaller adjustments).
 
 ### Education and Workshops ###
 
