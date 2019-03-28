@@ -28,29 +28,24 @@ We offer all students and staff the following services:
 
 ### Free Dr Bike Health Checks ###
 
-We will assess your bike and give you a written report with clear and jargon free
-explanations of what repairs are needed.
+We will assess your bike and give you a written report with clear and jargon free explanations of what repairs are needed.
 
-For a same day service arrive at at 8.30am to be guaranteed a slot. These are
-allocated on a first-come first-served basis. You can also pre-book.
+For a same day service arrive at at 8.30am to be guaranteed a slot. These are allocated on a first-come first-served basis, but you can also pre-book in person or on the phone.
 
-We can also offer on the spot assessment of repair needs and advice at any time,
-but we may recommend a health check if there are multiple repair issues.
+We can also offer on the spot assessment of repair needs and advice at any time. We may recommend a health check if there are multiple repair issues.
 
 ### DIY Area ###
 
-Use our DIY Area for free, with advice available from mechanics if you need it
-(limited during busy periods).
+Use our DIY Area for free, with advice from mechanics if you need it (limited during busy periods).
 
-We have:
+<img src="/static/images/DIY_area_in_use.jpg" width="300" height="240" /> <img src="/static/images/tool_board.jpg" width="400" height="550" />
+
+What we have:
  * Cycle pumps
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use 
 
-<img src="/static/images/diy_tool_board.jpg" width="300" height="240" />
-
-<img src="/static/images/DIY_area_in_use.jpg" width="300" height="240" />
 
 
 ### Education and Workshops ###
