@@ -29,6 +29,11 @@ and students to use our facilities to maintain their bikes.
 
 We offer all students and staff the following services:
 
+{% capture sidebar_text %}
+<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
+{% endcapture %}
+{% include sidebar.html %}
+
 ### Free Dr Bike Health Checks ###
 
 We will assess your bike and give you a written report with clear and jargon-
@@ -40,11 +45,6 @@ person or on the phone.
 
 We can also offer on the spot assessment of repair needs and advice at any time.
 We may recommend a health check if there are multiple repair issues.
-
-{% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
-{% endcapture %}
-{% include sidebar.html %}
 
 ### DIY Area ###
 
