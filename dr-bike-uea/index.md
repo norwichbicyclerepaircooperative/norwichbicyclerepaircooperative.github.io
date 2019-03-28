@@ -3,8 +3,6 @@ title: Norwich Bicycle Co-operative
 layout: default
 ---
 
-Dr Bike at UEA
-==============
 
 {% capture sidebar_text %}
 We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
@@ -17,6 +15,8 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 [![Visit us on Facebook](/static/images/fb_logo.png)](https://www.facebook.com/drbikeatuea) You can also follow Dr Bike at UEA on Facebook 
 {% endcapture %}
 {% include sidebar.html %}
+Dr Bike at UEA
+==============
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
@@ -51,8 +51,6 @@ What we have:
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use 
-
-
 
 ### Education and Workshops ###
 
