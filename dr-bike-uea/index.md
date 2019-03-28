@@ -15,6 +15,7 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 [![Visit us on Facebook](/static/images/fb_logo.png)](https://www.facebook.com/drbikeatuea) You can also follow Dr Bike at UEA on Facebook 
 {% endcapture %}
 {% include sidebar.html %}
+
 Dr Bike at UEA
 ==============
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
@@ -43,8 +44,7 @@ We may recommend a health check if there are multiple repair issues.
 ### DIY Area ###
 
 Use our DIY Area for free, with advice from mechanics if you need it (limited during busy periods).
-
-<img src="/static/images/DIY_area_in_use.jpg" width="300" height="240" /> <img src="/static/images/tool_board.jpg" width="400" height="550" />
+<img src="/static/images/tool_board.jpg" width="300" height="450" />
 
 What we have:
  * Cycle pumps
