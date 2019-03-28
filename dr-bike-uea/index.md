@@ -5,15 +5,18 @@ layout: default
 
 Dr Bike at UEA
 ==============
-We offer a full repair service and bike shope and sell refurbished and guaranteed [bikes for sale](/bikes-for-sale/).
+Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
+UEA Dr Bike service since January 13th 2014.
 
-In addition, as a not for profit enterprise we also offer free advice and encourage people to use our facilities to fix their own bikes.
+We offer a full repair service and bike shop and sell refurbished and guaranteed [bikes for sale](/bikes-for-sale/).
+
+As a not for profit enterprise we also offer free advice and encourage staff and students to use our facilities to maintain their bikes.
 
 {% capture sidebar_text %}
 We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
 Centre, behind Congregation Hall, UEA NR4 7TJ
 
-[<img src="/static/images/map_final.jpg" width="200" height="180" />](https://www.openstreetmap.org/#map=19/52.62222/1.24295)
+[<img src="/static/images/map_final.jpg" width="300" height="240" />](https://www.openstreetmap.org/#map=19/52.62222/1.24295)
 
 For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike@norwichbicyclerepaircoop.co.uk) or call 07903 553 286
 
@@ -21,10 +24,7 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 {% endcapture %}
 {% include sidebar.html %}
 
-Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
-UEA Dr Bike service since January 13th 2014.
-
-This means we offer all students and staff the following services:
+We offer all students and staff the following services:
 
 ### Free Dr Bike Health Checks ###
 
@@ -37,7 +37,7 @@ allocated on a first-come first-served basis. You can also pre-book.
 We can also offer on the spot assessment of repair needs and advice at any time,
 but we may recommend a health check if there are multiple repair issues.
 
-### Do It Yourself Maintenance and Repairs ###
+### DIY Area ###
 
 Use our DIY Area for free, with advice available from mechanics if you need it
 (limited during busy periods).
@@ -47,6 +47,11 @@ We have:
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use 
+
+<img src="/static/images/diy_tool_board.jpg" width="300" height="240" />
+
+<img src="/static/images/DIY_area_in_use.jpg" width="300" height="240" />
+
 
 ### Education and Workshops ###
 
