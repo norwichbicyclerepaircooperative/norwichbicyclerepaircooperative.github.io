@@ -44,13 +44,13 @@ We may recommend a health check if there are multiple repair issues.
 ### DIY Area ###
 
 Use our DIY Area for free, with advice from mechanics if you need it (limited during busy periods).
-<img src="/static/images/tool_board.jpg" width="300" height="450" />
 
-What we have:
+We have:
  * Cycle pumps
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use 
+<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
 
 ### Education and Workshops ###
 
