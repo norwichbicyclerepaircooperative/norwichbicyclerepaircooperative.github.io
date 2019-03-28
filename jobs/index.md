@@ -9,15 +9,15 @@ layout: default
 
 <img src="/static/images/IMG_20181024_161900.jpg" width="200" height="150" />
 
-We especially encourage applications from women, who as a demographic are under-represented in the cycle trade. One of the aims of our project is to provide a service that is friendly, approachable, and inclusive for all.
-
-Selection for the job will, of course, be made on merit and we welcome applications from everyone with an enthusiasm to join our project. {% endcapture %} {% include sidebar.html %}
+We especially encourage applications from women, who as a demographic are under-represented in the cycle trade. One of the aims of our project is to provide a service that is friendly, approachable, and inclusive for all. {% endcapture %} {% include sidebar.html %}
 
 ## Current Vacancies:
 
 ### Co-op member/Cycle Mechanic/Project Co-manager
 Full training provided. See Job Sepcification for details.
 Closing date for applications 20th March 2019
+
+APPLICATIONS NOW CLOSED FOR SHORTLISTING
 
 
 #### Please read all the information below carefully - we will only consider applications that provide all the information we have asked for.
