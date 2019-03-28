@@ -30,7 +30,7 @@ and students to use our facilities to maintain their bikes.
 We offer all students and staff the following services:
 
 {% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
+<img src="/static/images/diy_tool_board.jpg" width="200" height="350" />
 {% endcapture %}
 {% include sidebar.html %}
 
