@@ -41,6 +41,11 @@ person or on the phone.
 We can also offer on the spot assessment of repair needs and advice at any time.
 We may recommend a health check if there are multiple repair issues.
 
+{% capture sidebar_text %}
+<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
+{% endcapture %}
+{% include sidebar.html %}
+
 ### DIY Area ###
 
 Use our DIY Area for free, with advice from mechanics if you need it (limited during busy periods).
@@ -50,11 +55,6 @@ We have:
  * Free puncture repair guides
  * Oil, rags, brushes and gloves
  * A range of tools, labelled and free to use
-
-{% capture sidebar_text %}
-<img src="/static/images/diy_tool_board.jpg" width="300" height="450" />
-{% endcapture %}
-{% include sidebar.html %}
 
 ### Education and Workshops ###
 
