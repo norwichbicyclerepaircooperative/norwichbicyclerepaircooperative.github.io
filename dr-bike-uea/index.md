@@ -8,7 +8,7 @@ layout: default
 We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
 Centre, behind Congregation Hall, UEA NR4 7TJ
 
-[<img src="/static/images/map_final.jpg" width="293" height="240" />](https://www.openstreetmap.org/#map=19/52.62222/1.24295)
+[<img src="/static/images/map_final.jpg" width="294" height="240" />](https://www.openstreetmap.org/#map=19/52.62222/1.24295)
 
 For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike@norwichbicyclerepaircoop.co.uk) or call 07903 553 286
 
