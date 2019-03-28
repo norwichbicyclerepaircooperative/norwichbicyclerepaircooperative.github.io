@@ -8,10 +8,20 @@ layout: default
 The Cycle Repair Centre will be closed on the following dates:
 
 
-## 2018
+## 2019
 
-Christmas opening hours
+_Spring_
+Thursday 18th April
+Friday 19th April (Bank Holiday)
+Monday 22nd April (Bank Holiday)
+Tuesday 23rd April
 
-Closing date: TBC
+Monday 27th May (Bank Holiday)
 
-Re-open for trading in 2019: Monday 7th January
+_Summer_
+Monday 26th August (Bank Holiday)
+
+_Autumn_
+
+_Winter_
+Christmas Break: TBC
