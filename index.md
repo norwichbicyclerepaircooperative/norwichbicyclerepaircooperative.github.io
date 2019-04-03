@@ -18,17 +18,26 @@ enquiries@norwichbicyclerepaircoop.co.uk
 
 ## Opening times:  Monday to Friday, 8.30am to 4.30pm
 
-### We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
+# We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
 
-NBRC are a different type of bicycle business, combining quality bicycle
+### Cycle Repairs
+
+NBRC is a different type of bicycle business, combining quality bicycle
 repairs with a strong social and environmental ethos. 
 
-We're interested in repairing bicycles of all ages and types, offering a
-jargon-free service and helping educate cycle users so they can make informed
-choices about maintaining their bikes.
+We repair bicycles of all ages and types, offering a jargon-free service and
+helping educate cycle users so they can make informed choices about maintaining
+their bikes.
 
-We've over 30 years of professional bicycle repair experience in our workshop
-and offer a comprehensive range of repairs and renovations.
+We aim to offer a same day service, first come first served, so bring your bike
+in for assessment at 8.30am for a same day repair. We get booked up quickly during
+busy periods so arrive early to avoid disappointment.
+
+We specialise in Sturmey Archer hubs and have a selection of second hand parts on hand to get your vintage bicycle back on the road.
+
+With over 30 years of professional bicycle repair experience in our workshop we offer a comprehensive range of repairs and renovations for bicycles new and old.
+
+In addition if you're looking for advice on parts, a vintage frame you want built up, or a new set of wheels you would like us to build, we're happy to talk you through the options.
 
 
 [![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) Follow us on Facebook
