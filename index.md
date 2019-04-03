@@ -34,11 +34,13 @@ We aim to offer a same day service, first come first served, so bring your bike
 in at 8.30am for a same day repair. We get booked up quickly during busy periods
 so arrive early to avoid disappointment.
 
-With over 30 years of professional bicycle repair experience in our workshop we offer a comprehensive range of repairs and renovations for bicycles new and old. We specialise in Sturmey Archer and have a selection of second hand parts on hand to get your vintage bicycle back on the road.
+With over 30 years of professional bicycle repair experience in our workshop we offer a comprehensive range of repairs and renovations for bicycles new and old. We are well stocked with parts for regular repairs or upgrades, and various accessories. We also specialise in Sturmey Archer and have a selection of second hand parts on hand to get your vintage bicycle back on the road.
+
+In addition we stock tools, lubricants and maintenance guides for every budding cycle mechanic's needs. 
 
 ### Refurbishing Bicycles
 
-In addition if you're looking for advice on parts, a vintage frame you want built up, or a new set of wheels you would like us to build, we're happy to talk you through the options.
+If you're looking for advice on parts, a vintage frame you want built up, or a new set of wheels you would like us to build we're happy to talk you through the options.
 
 
 [![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) Follow us on Facebook
