@@ -7,7 +7,7 @@ layout: default
 
 ## Opening times:  Monday to Friday, 8.30am to 4.30pm
 
-### *We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
+### We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
 
 {% capture sidebar_text %}
 # Visit our shop and workshop:
