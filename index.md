@@ -23,20 +23,16 @@ enquiries@norwichbicyclerepaircoop.co.uk
 {% endcapture %}
 {% include sidebar.html %}
 
-NBRC is a different type of bicycle business, combining quality bicycle repairs
-with a strong social and environmental ethos. 
+NBRC combines quality bicycle repairs with a strong social and environmental ethos. 
 
-We repair bicycles of all ages and types, offering a jargon-free service and
-helping educate cycle users so they can make informed choices about maintaining
-their bikes.
-
-We aim to offer a same day service, first come first served, so bring your bike
-in at 8.30am for a same day repair. We get booked up quickly during busy periods
-so arrive early to avoid disappointment.
+We repair bicycles of all ages and types, offering a jargon-free service and advice that is
+personalised for your bicycle and your needs.
 
 With over 30 years of professional bicycle repair experience in our workshop we offer a comprehensive range of repairs and renovations for bicycles new and old. We are well stocked with parts for regular repairs or upgrades, and various accessories. We also specialise in Sturmey Archer and have a selection of second hand parts on hand to get your vintage bicycle back on the road.
 
 In addition we stock tools, lubricants and maintenance guides for every budding cycle mechanic's needs. 
+
+Service is first come first served for same day repairs. __To get your bike repaired by 4.30 the same day arrive at 8.30am.__ We get booked up quickly during busy periods.
 
 ### Refurbishing Bicycles
 
