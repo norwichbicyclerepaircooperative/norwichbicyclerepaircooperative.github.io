@@ -30,8 +30,8 @@ affordable as possible.
 Cycling and fixing bikes is our passion: we want to help as many people as possible to get back on the road and ride their bikes with confidence. This basic motivation informs everything we do, from our workshop repairs to the advice we give.
 We're committed to clear communication and not up-selling. To this end we always endeavour to explain your repair without jargon and with a focus on what your needs are.
 
-In addition we offer workshops and tuition, and plenty of advice on how to maintain your
-bike and keep cycling costs down.
+In addition we offer workshops and tuition, as well as plenty of tips and advice on how to run and maintain your
+bike on a budget.
 
 
 > Norwich Bicycle Repair Co-operative Ltd aims to be open and accountable, so as
