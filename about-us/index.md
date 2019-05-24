@@ -18,7 +18,7 @@ should go to:
 
 {% include sidebar.html %}
 
-Norwich Bicycle Repair Co-operative (NBRC) is an ethical business formed in 2013
+Norwich Bicycle Repair Co-operative (NBRC) was formed in 2013
 by Joanna Chitty & Mark Smith.
 
 We are a fully mutual workers' co-operative, with clear social and environmental
@@ -27,18 +27,12 @@ into community benefits, like getting more old bicycles and parts back into
 reuse, educating about and promoting cycling and keeping our services as
 affordable as possible.
 
-First and foremost we are about quality bicycle repairs. We offer a
-comprehensive workshop repair service from our well equipped workshop. But we
-want to do more than just mend your bike, we're committed to clear
-communication and not up-selling.
+Cycling and fixing bikes is our passion: we want to help as many people as possible to get back on the road and ride their bikes with confidence. This basic motivation informs everything we do, from our workshop repairs to the advice we give.
+We're committed to clear communication and not up-selling. To this end we always endeavour to explain your repair without jargon and with a focus on what your needs are.
 
-We only recommend repairs if they are necessary and will always endeavour to
-explain your repair to you. We aim for a friendly, accessible and jargon-free
-service. We also offer loads of advice on how to maintain your bike and keep
-cycling costs down.
+In addition we offer workshops and tuition, and plenty of advice on how to maintain your
+bike and keep cycling costs down.
 
-We're also about promoting cycling as a accessible, sustainable, practical and
-healthy form of transport
 
 > Norwich Bicycle Repair Co-operative Ltd aims to be open and accountable, so as
 > far as possible we put information about our company in the public domain. You
