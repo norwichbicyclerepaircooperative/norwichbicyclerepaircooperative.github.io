@@ -17,7 +17,7 @@ The result is a bicycle which needs frequent maintenance at relatively high cost
 
 ### Identifying quality new bicycles
 
-If you are set on buying a brand new bicycle, you must expect to spend upwards of £200 in order to get something of such quality that it's actually worth the money. This is simply a reflection of how much it costs companies to produce bicycles which actually function as required. In addition, if you purchase your bicycle online and have it delivered, it is highly advisable to pay a professional to assemble it. This usually costs around £20. To the normal buyer without specific knowledge of components, price is the most reliable indicator of quality. However, there are some easily identifiable features of cheap bikes which are to be avoided:
+If you are set on buying a brand new bicycle, you must expect to spend upwards of £200 in order to get something of such quality that it's actually worth the money. This is simply a reflection of how much it costs companies to produce bicycles which actually function as required. In addition, if you purchase your bicycle online and have it delivered, it is highly advisable to pay a professional to assemble it. This is generally known as a boxed bike setup. To the normal buyer without specific knowledge of components, price is the most reliable indicator of quality. However, there are some easily identifiable features of cheap bikes which are to be avoided:
 * Brake levers should be made of metal, not plastic
 * Bicycle frames should not be full suspension if designed for normal use
 * Tyres ideally should be branded – Schwalbe or Continental are good
@@ -34,7 +34,7 @@ For those who want a working bicycle for less money, the solution is to buy seco
 
 Always test ride a bike before buying if possible. This is a really important way to get a feel for the condition of the bike and how well it fits you. Comfort is key to having a bike which you actually want to ride regularly.
 
-If you are a UEA campus card holder, you can get a free health check on any bicycle you bring to our shop on campus. This allows us to provide the customer with a thorough report on the condition of a bicycle.
+If you are a UEA campus card holder, you can get a free health check on any bicycle you bring to our shop on campus. This allows us to provide you with a thorough report on the condition of a bicycle.
 
 
 
