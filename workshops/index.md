@@ -35,10 +35,9 @@ This workshop will show you how to:
 * Name the parts of your bike
 * Oil the chain
 * Correctly inflate tyres
-
 #### [Book your place](https://www.eventbrite.com/e/basic-bike-maintenance-workshop-drop-in-tickets-62350093809)
 
-## Drop-in session
+### Drop-in session
 #### 1pm-3pm, Dr Bike Cycle Repair Centre 
 Just turn up with your bike, no need to book. However space is limited so arrive early to get a bike stand.
 
