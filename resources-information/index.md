@@ -10,6 +10,9 @@ layout: default
 # DIY guides
 
 ## [How to Fix a Puncture - a DIY guide](http://www.norwichbicyclerepaircoop.co.uk/resources-information/diy-puncture-repair-guide.pdf)
+<img src="/static/images/How-to-Fix-a-Puncture-2.png" width="400" height="300" />
+
+
 
 # Zines
 
