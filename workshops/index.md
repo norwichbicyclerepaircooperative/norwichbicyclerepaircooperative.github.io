@@ -3,6 +3,14 @@ title: Norwich Bicycle Co-operative – Resources & Information
 layout: default
 ---
 
+{% capture sidebar_text %}
+
+If you would like to book us for a workshop send us an email:
+enquiries@norwichbicyclerepaircoop.co.uk
+
+{% endcapture %}
+{% include sidebar.html %}
+
 Upcoming Workshops
 ==================
 
@@ -19,5 +27,5 @@ Funded by __The Big Bike Revival__ we will be running the following workshops fo
 ### [Book your place](https://www.eventbrite.com/e/basic-bike-maintenance-workshop-drop-in-tickets-62350093809)
 
 ## Drop-in session
-### 1pm-3pm (just turn up, no need to book)
+### 1pm-3pm, Dr Bike Cycle Repair Centre (just turn up, no need to book)
 
