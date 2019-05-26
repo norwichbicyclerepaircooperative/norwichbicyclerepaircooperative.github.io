@@ -14,10 +14,7 @@ enquiries@norwichbicyclerepaircoop.co.uk
 Upcoming Workshops
 ==================
 
-
-
-We're running these workshops for __free__ as part of [<img src="/static/images/bbrlogo.png" width="
-250" height="150" />](https://www.cyclinguk.org/bigbikerevival)
+We're running __free__ workshops this June as part of [The Big Bike Revival](https://www.cyclinguk.org/bigbikerevival)
 
 ## 5th June: [How to Fix a Puncture](https://www.facebook.com/events/626161087869885/)
 #### 6pm-8pm, Dr Bike Cycle Repair Centre
@@ -34,8 +31,8 @@ This workshop will show you how to:
 #### 10am-12pm, Dr Bike Cycle Repair Centre
 This workshop will show you how to:
 * Name the parts of your bike
-* Assess wear on the parts
-* Check your bike is safe
+* Assess wear and adjustment of parts
+* Check for any safety issues
 * Maintain your bike
 #### [Book your place](https://www.eventbrite.com/e/basic-bike-maintenance-workshop-drop-in-tickets-62350093809)
 #### [Posters](/workshops/Basic_Bike_Maintenance_Poster.pdf)
