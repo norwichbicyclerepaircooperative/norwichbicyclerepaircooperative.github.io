@@ -5,9 +5,6 @@ layout: default
 
 {% capture sidebar_text %}
 
-<img src="/static/images/bbrlogo.png" width="240" height="130" />
-
-We're running these workshops for __free__ as part of [The Big Bike Revival](https://www.cyclinguk.org/bigbikerevival).
 If you'd like us to run a workshop you can contact us here:
 enquiries@norwichbicyclerepaircoop.co.uk
 
@@ -16,6 +13,10 @@ enquiries@norwichbicyclerepaircoop.co.uk
 
 Upcoming Workshops
 ==================
+
+
+
+We're running these workshops for __free__ as part of [<img src="/static/images/bbrlogo.png" width="150" height="75" />](https://www.cyclinguk.org/bigbikerevival).
 
 ## 5th June: [How to Fix a Puncture](https://www.facebook.com/events/626161087869885/)
 #### 6pm-8pm, Dr Bike Cycle Repair Centre
