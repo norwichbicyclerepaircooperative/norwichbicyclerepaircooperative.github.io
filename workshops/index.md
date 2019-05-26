@@ -16,7 +16,8 @@ Upcoming Workshops
 
 
 
-We're running these workshops for __free__ as part of [<img src="/static/images/bbrlogo.png" width="150" height="75" />](https://www.cyclinguk.org/bigbikerevival).
+We're running these workshops for __free__ as part of [<img src="/static/images/bbrlogo.png" width="
+250" height="150" />](https://www.cyclinguk.org/bigbikerevival).
 
 ## 5th June: [How to Fix a Puncture](https://www.facebook.com/events/626161087869885/)
 #### 6pm-8pm, Dr Bike Cycle Repair Centre
