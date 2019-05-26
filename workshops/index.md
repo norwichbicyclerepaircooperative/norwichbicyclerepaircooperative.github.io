@@ -24,7 +24,7 @@ This workshop will show you how to:
 * refit the tyre and tube
 * Refit the wheel and check the brake set up
 #### [Book your place](https://www.eventbrite.com/e/how-to-fix-a-puncture-workshop-tickets-62271990199)
-
+#### [Posters](/workshops/Basic_Bike_Maintenance_Poster.pdf)
 
 ## 29th June: Basic Bike Maintenance Workshop + Drop-in
 ### Basic Bike Maintenance
@@ -33,11 +33,17 @@ This workshop will show you how to:
 * Check your bike is safe
 * Assess wear on the parts
 * Name the parts of your bike
-* Oil the chain
-* Correctly inflate tyres
+* Maintain your bike well throughout the year
 #### [Book your place](https://www.eventbrite.com/e/basic-bike-maintenance-workshop-drop-in-tickets-62350093809)
+#### [Posters](/workshops/How_to_Fix_A_Puncture_Poster.pdf)
 
-### Drop-in session
+### Drop-in Open Workshop session
 #### 1pm-3pm, Dr Bike Cycle Repair Centre 
-Just turn up with your bike, no need to book. However space is limited so arrive early to get a bike stand.
+This session gives you access to our workshop and support from mechanics.
+* Do some general maintainence and with advice and support
+* Build confidence fixing and maintaining your bike
+* Access the right tools and help to do a particular repair
+* Get some help bringing a bike back to life
+
+Just turn up with your bike, there's no need to book. Space is limited so arrive early to get a bike stand.
 
