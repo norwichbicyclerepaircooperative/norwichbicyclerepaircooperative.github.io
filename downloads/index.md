@@ -24,4 +24,8 @@ employees (current or potential) other people thinking of setting up a co-op.
 
 All NBRC Job Contracts are based on this template.  Useful for current and
 prospective employees.  We are happy for other Co-ops to use and adapt this
-template
+template.
+
+## [NBRC GDPR Compliance](/download/nbrc gdpr document.pdf)
+NBRC value your privacy and we are committed to keeping your data safe.
+Learn more and view our privacy policy.
