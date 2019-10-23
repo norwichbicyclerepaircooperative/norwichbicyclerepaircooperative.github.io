@@ -28,4 +28,4 @@ template.
 
 ## [NBRC GDPR Compliance](/download/nbrc gdpr document.pdf)
 NBRC value your privacy and we are committed to keeping your data safe.
-Learn more and view our privacy policy.
+Learn more and view our [privacy policy](/downloads/nbrc gdpr privacy statement.pdf).
