@@ -37,5 +37,5 @@ bike on a budget.
 > Norwich Bicycle Repair Co-operative Ltd aims to be open and accountable, so as
 > far as possible we put information about our company in the public domain. You
 > can find downloads for our consitution and other information about our business
-> [here](/downloads/) including our [privacy policy](/downloads/nbrc gdpr privacy statement.pdf).
+> [here](/downloads/).
 
