@@ -21,13 +21,12 @@ Dr Bike at UEA
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
+We are currently conducting a survey on the Dr Bike service - please follow [this link](https://www.surveymonkey.co.uk/r/PW3LLNW) to leave your feedback!
+
 We offer a full repair service and bike shop and sell refurbished and
 guaranteed [bikes for sale](/bikes-for-sale/).
 
-As a not for profit enterprise we also offer free advice and encourage staff
-and students to use our facilities to maintain their bikes.
-
-We offer all students and staff the following services:
+As the provider of Dr Bike @ UEA we offer all students and staff the following services:
 
 ### Free Dr Bike Health Checks ###
 
