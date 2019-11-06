@@ -24,13 +24,13 @@ UEA Dr Bike service since January 13th 2014.
 # The service is undergoing some changes
 
 We want you to be part of our consultation on the service to shape the changes that happen and make sure your priorities are heard.
-## Leave us some feedback ##
+## * Leave us some feedback ##
 **We are currently conducting a survey on the Dr Bike @ UEA service** - we would really appreciate it if you can take a couple of minutes to fill it in [here](https://www.surveymonkey.co.uk/r/PW3LLNW) so we can see what we might change.
 
-Come to our open meeting to give your input on the future of the service and help us develop a vision for Dr Bike for the future.
-## Open Meeting 20th November 7pm Union House, room TBC
+## * Come to our Open Meeting: 20th November 7pm Union House, room TBC
+Have your say in our vision for the service.
 
-Sign up to our mailing list for the latest news
+## * Sign up to our mailing list for the latest news
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
