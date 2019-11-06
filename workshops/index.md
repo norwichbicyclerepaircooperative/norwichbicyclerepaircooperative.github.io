@@ -2,10 +2,10 @@
 title: Norwich Bicycle Co-operative – Resources & Information
 layout: default
 ---
+Book a Workshop
+===============
 
-{% capture sidebar_text %}
-
-Get in touch via enquiries@norwichbicyclerepaircoop.co.uk if you'd like to book us to run one of these workshops for your school, club, or workplace. 
+Get in touch via enquiries@norwichbicyclerepaircoop.co.uk if you'd like to book us to run a workshop for your business, school, club, society, or workplace. 
 
 You can also join our mailing list to find out about upcoming events including workshops.
 <!-- Begin Mailchimp Signup Form -->
@@ -34,9 +34,6 @@ You can also join our mailing list to find out about upcoming events including w
 </div>
 
 <!--End mc_embed_signup-->
-
-{% endcapture %}
-{% include sidebar.html %}
 
 Previous Workshops
 ==================
