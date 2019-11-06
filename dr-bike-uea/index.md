@@ -21,7 +21,7 @@ Dr Bike @ UEA
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
->> ## Dr Bike @ UEA is changing
+>> __Dr Bike @ UEA is changing...
 
 The future is a little uncertain at present, but there's one thing we do know: we want your needs and priorities to be at the centre of our vision for Dr Bike
 ## > Leave us some feedback ##
