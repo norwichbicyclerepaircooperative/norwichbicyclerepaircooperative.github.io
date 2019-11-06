@@ -21,8 +21,9 @@ Dr Bike @ UEA
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
-# The service is undergoing some changes and we want you to be part of it
+# The service is undergoing some changes
 
+We want you to be part of our consultation on the service to shape the changes that happen and make sure your priorities are heard.
 ## Leave us some feedback ##
 **We are currently conducting a survey on the Dr Bike @ UEA service** - we would really appreciate it if you can take a couple of minutes to fill it in [here](https://www.surveymonkey.co.uk/r/PW3LLNW) so we can see what we might change.
 
@@ -42,28 +43,11 @@ Sign up to our mailing list for the latest news
 <form action="https://gmail.us5.list-manage.com/subscribe/post?u=e317082ca26f50c2f9fa15c06&amp;id=358dc88c2a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group size1of2">
-	<label for="mce-BIRTHDAY-month">Birthday </label>
-	<div class="datefield">
-		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
-		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
-		<span class="small-meta nowrap">( mm / dd )</span>
-	</div>
-</div>	<div id="mce-responses" class="clear">
+	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
