@@ -16,7 +16,7 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 {% endcapture %}
 {% include sidebar.html %}
 
-Dr Bike at UEA
+Dr Bike @ UEA
 ==============
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
