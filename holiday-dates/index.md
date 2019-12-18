@@ -31,4 +31,8 @@ _Autumn_
 
 _Winter_
 
-Christmas Break: TBC 
+CLOSED from 20th December
+
+OPEN for the new year: 6th January
+
+NBRC wishes everyone happy holidays!
