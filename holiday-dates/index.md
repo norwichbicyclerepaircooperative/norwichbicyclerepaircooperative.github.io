@@ -5,7 +5,7 @@ layout: default
 
 # Dr Bike Holiday Dates
 
-The Cycle Repair Centre will be closed on the following dates:
+The Cycle Repair Centre will be CLOSED on the following dates:
 
 
 ## 2019
@@ -31,8 +31,6 @@ _Autumn_
 
 _Winter_
 
-CLOSED from 20th December
-
-OPEN for the new year: 6th January
+CLOSED from Friday 20th December - Monday 6th January
 
 NBRC wishes everyone happy holidays!
