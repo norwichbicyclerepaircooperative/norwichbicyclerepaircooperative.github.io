@@ -21,14 +21,9 @@ Dr Bike @ UEA
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
 UEA Dr Bike service since January 13th 2014.
 
->> Dr Bike @ UEA is changing...
-
-The future is a little uncertain at present, but there's one thing we do know: we want your needs and priorities to be at the centre of our vision for Dr Bike
+We want to keep your needs and priorities at the centre of our vision for Dr Bike
 ## > Leave us some feedback ##
-**We are currently conducting a survey on the Dr Bike @ UEA service** - we would really appreciate it if you can take a couple of minutes to fill it in [here](https://www.surveymonkey.co.uk/r/PW3LLNW) so we can see what we might change.
-
-## > Come to our Open Meeting: 20th November 7pm Union House, room TBC
-Have your say in our vision for the service.
+We would really appreciate it if you can take a couple of minutes to complete our survey [here](https://www.surveymonkey.co.uk/r/PW3LLNW) - thanks!
 
 ## > Sign up to our mailing list for the latest news
 
@@ -97,4 +92,4 @@ We're a safety focussed project so _all brake __labour__ is capped at £15 for s
 
 ### Education and Workshops ###
 
-Contact us to find out how you can book us to run a workshop for your staff or students
+We occasionally run these for interested groups of staff or students. If you'd like to book us please get in touch.
