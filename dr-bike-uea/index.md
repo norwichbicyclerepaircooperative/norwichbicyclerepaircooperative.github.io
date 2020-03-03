@@ -16,48 +16,16 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 {% endcapture %}
 {% include sidebar.html %}
 
-Dr Bike @ UEA
-==============
+<img src="/static/images/dr_bike_at_uea_fb_cover.jpeg" width="1000" height="350" />
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
-UEA Dr Bike service since January 13th 2014.
-
-We want to keep your needs and priorities at the centre of our vision for Dr Bike
+UEA Dr Bike service since January 13th 2014. We want to keep your needs and priorities at the centre of our vision for Dr Bike
 ## > Leave us some feedback ##
-We would really appreciate it if you can take a couple of minutes to complete our survey [here](https://www.surveymonkey.co.uk/r/PW3LLNW) - thanks!
+We would appreciate it if you can take a couple of minutes to complete our survey [here](https://www.surveymonkey.co.uk/r/PW3LLNW) - thanks!
 
-## > Sign up to our mailing list for the latest news
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://gmail.us5.list-manage.com/subscribe/post?u=e317082ca26f50c2f9fa15c06&amp;id=358dc88c2a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e317082ca26f50c2f9fa15c06_358dc88c2a" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
-
-We offer a full repair service and bike shop and sell refurbished and
+We provide a full repair service and bike shop and we also sell recycled, refurbished, and
 guaranteed [bikes for sale](/bikes-for-sale/).
 
-As the provider of Dr Bike @ UEA we offer all students and staff the following services:
+As the provider of Dr Bike @ UEA we also offer all students and staff the following services:
 
 ### Free Dr Bike Health Checks ###
 
