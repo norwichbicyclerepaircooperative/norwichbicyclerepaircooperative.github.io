@@ -5,10 +5,6 @@ layout: default
 
 <img src="/static/images/NBRC_fb_cover.jpg" width="800" height="290" />
 
-## Opening times:  Monday to Friday, 8.30am to 4.30pm
-
-### We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
-
 {% capture sidebar_text %}
 # Visit our shop and workshop:
 
@@ -51,6 +47,10 @@ enquiries@norwichbicyclerepaircoop.co.uk
 
 {% endcapture %}
 {% include sidebar.html %}
+
+## Opening times:  Monday to Friday, 8.30am to 4.30pm
+
+### We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
 
 NBRC combines quality bicycle repairs with a strong social and environmental ethos. 
 
