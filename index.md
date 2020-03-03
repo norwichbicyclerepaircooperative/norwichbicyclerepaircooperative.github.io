@@ -61,7 +61,8 @@ With over 30 years of professional bicycle repair experience in our workshop we 
 
 In addition we stock tools, lubricants and maintenance guides for every budding cycle mechanic's needs. 
 
-Service is first come first served for same day repairs. __To get your bike repaired by 4.30 the same day arrive at 8.30am.__ We get booked up quickly during busy periods.
+Service is first come first served for same day repairs.
+__To get your bike repaired by 4.30 the same day arrive at 8.30am.__ We get booked up quickly during busy periods.
 
 ### Refurbishing Bicycles
 
