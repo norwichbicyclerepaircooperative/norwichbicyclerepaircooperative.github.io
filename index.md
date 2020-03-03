@@ -3,7 +3,7 @@ title: Norwich Bicycle Co-operative
 layout: default
 ---
 
-<img src="/static/images/NBRC_fb_cover.jpg" width="800" height="290" />)
+<img src="/static/images/NBRC_fb_cover.jpg" width="800" height="290" />
 
 ## Opening times:  Monday to Friday, 8.30am to 4.30pm
 
