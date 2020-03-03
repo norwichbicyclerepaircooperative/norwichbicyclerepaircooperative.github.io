@@ -3,6 +3,8 @@ title: Norwich Bicycle Co-operative
 layout: default
 ---
 
+<img src="/static/images/dr_bike_at_uea_fb_cover.jpeg" width="800" height="250" />
+
 
 {% capture sidebar_text %}
 We can be found from Monday to Friday, 8.30am - 4.30pm at the Dr Bike Repair
@@ -16,16 +18,19 @@ For more information email [drbike@norwichbicyclerepaircoop.co.uk](mailto:drbike
 {% endcapture %}
 {% include sidebar.html %}
 
-<img src="/static/images/dr_bike_at_uea_fb_cover.jpeg" width="1000" height="350" />
 Norwich Bicycle Repair Co-operative Ltd have held the contract to provide the
-UEA Dr Bike service since January 13th 2014. We want to keep your needs and priorities at the centre of our vision for Dr Bike
-## > Leave us some feedback ##
-We would appreciate it if you can take a couple of minutes to complete our survey [here](https://www.surveymonkey.co.uk/r/PW3LLNW) - thanks!
+UEA Dr Bike service since January 13th 2014.
 
+### > Leave us some feedback ###
+We want to keep your needs and priorities at the centre of our vision for Dr Bike at UEA. Tell us what you think by completing our survey [here](https://www.surveymonkey.co.uk/r/PW3LLNW) - thanks!
+
+## What do we offer? ##
 We provide a full repair service and bike shop and we also sell recycled, refurbished, and
 guaranteed [bikes for sale](/bikes-for-sale/).
 
-As the provider of Dr Bike @ UEA we also offer all students and staff the following services:
+Dr Bike @ UEA is part of UEA's sustainability strategy to encourage and support people cycling on campus.
+
+Dr Bike at UEA offers students and staff the following services:
 
 ### Free Dr Bike Health Checks ###
 
@@ -60,4 +65,4 @@ We're a safety focussed project so _all brake __labour__ is capped at £15 for s
 
 ### Education and Workshops ###
 
-We occasionally run these for interested groups of staff or students. If you'd like to book us please get in touch.
+We occasionally run workshops for interested groups of staff or students. If you'd like to book us please get in touch.
