@@ -17,9 +17,9 @@ NR4 7TJ
 07903 553 286  
 enquiries@norwichbicyclerepaircoop.co.uk
 
-[![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) Follow us on Facebook
+[![Visit us on Facebook](/static/images/fb_logo_spaced.png)](http://www.facebook.com/norwichbicycle) Follow us on Facebook
 
-[![Follow us on Instagram](/static/images/instagram_logo_26x26.png)](https://www.instagram.com/norwichbikerepaircoop/)       Follow us on Instagram
+[![Follow us on Instagram](/static/images/instagram_logo_white.png)](https://www.instagram.com/norwichbikerepaircoop/)       Follow us on Instagram
 
 {% endcapture %}
 {% include sidebar.html %}
