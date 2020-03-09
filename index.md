@@ -19,7 +19,7 @@ enquiries@norwichbicyclerepaircoop.co.uk
 
 [![Visit us on Facebook](/static/images/fb_logo.png)](http://www.facebook.com/norwichbicycle) Follow us on Facebook
 
-[![Follow us on Instagram](/static/images/glyph-logo_May2016RESIZED26x26.png)](https://www.instagram.com/norwichbikerepaircoop/)       Follow us on Instagram
+[![Follow us on Instagram](/static/images/instagram_logo_26x26.png)](https://www.instagram.com/norwichbikerepaircoop/)       Follow us on Instagram
 
 {% endcapture %}
 {% include sidebar.html %}
