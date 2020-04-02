@@ -28,6 +28,19 @@ enquiries@norwichbicyclerepaircoop.co.uk
 
 ### We are shut on Bank Holidays and occasional other dates throughout the year.  A full list of closing dates can be found [here](/holiday-dates/).
 
+
+
+*IMPORTANT MESSAGE REGARDING COVID-19*
+During these uncertain times Norwich Bicycle Repair Co-op, who run the Dr Bike service at the UEA, have taken the decision to close until further notice.
+
+We have taken the decision to offer free puncture and small adjustments for all NHS workers. We will of course be taking appropriate protective measures to stay safe (safe distancing, using gloves and hand gel).
+
+## If you are an NHS worker with a puncture or other mechanical issue please call our phone number, 07903553286, any time within our normal working hours, and one of our staff will come and help you the same day. ##
+
+Stay safe, keep up the good work and don't hesitate to use us if you need to.
+The staff at NBRC (Dr Bike)
+
+
 NBRC combines quality bicycle repairs with a strong social and environmental ethos. 
 
 We repair bicycles of all ages and types, offering a jargon-free service and advice that is
